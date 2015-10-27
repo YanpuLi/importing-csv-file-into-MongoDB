@@ -11,4 +11,4 @@ inserting all the documents into Mongodb
 
 
 for running the code:
-python insert.py
+python insert.py --db ** --col ** --path **
